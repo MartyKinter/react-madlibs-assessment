@@ -1,0 +1,29 @@
+.MadlibForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.MadlibForm form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.MadlibForm input {
+  margin: 10px 0;
+  padding: 8px;
+  width: 300px;
+}
+
+.App{
+  text-align: center;
+}
+
+.Story{
+  font-size: 10px;
+}
